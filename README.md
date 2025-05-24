@@ -68,7 +68,7 @@ streamlit run app.py
 
 ## 📂 Dataset Source
 
-- [Kaggle COVID-19 Global Dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)) *(available in the folder named data as well)*
+- [Kaggle COVID-19 Global Dataset]([https://www.kaggle.com/datasets/imdevskp/corona-virus-report]) *(available in the folder named data as well)*
 
 ---
 
@@ -85,7 +85,6 @@ streamlit run app.py
 
 **Sakshi Malhotra**  
 - Aspiring data scientist passionate about impactful analytics.  
-- Connect on [LinkedIn](https://www.linkedin.com/) *(update with your profile link)*  
 
 ---
 
