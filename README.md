@@ -68,7 +68,7 @@ streamlit run app.py
 
 ## 📂 Dataset Source
 
-- [Kaggle COVID-19 Global Dataset](https://www.kaggle.com/) *(or update with your actual source link)*
+- [Kaggle COVID-19 Global Dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)) *(available in the folder named data as well)*
 
 ---
 
